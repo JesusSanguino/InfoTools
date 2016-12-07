@@ -27,5 +27,6 @@
     <module>BuscarPropietario</module>
     <module>GenerarSancion</module>
     <module>VerificarSancion</module>
+    <module>ActualizarDatos</module>
   </modules>
 </project>
