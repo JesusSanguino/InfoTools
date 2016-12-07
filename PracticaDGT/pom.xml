@@ -28,5 +28,6 @@
     <module>GenerarSancion</module>
     <module>VerificarSancion</module>
     <module>ActualizarDatos</module>
+    <module>ControlarRadar</module>
   </modules>
 </project>
