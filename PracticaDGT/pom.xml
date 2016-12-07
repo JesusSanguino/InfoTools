@@ -25,5 +25,6 @@
   <modules>
   	<module>AperturaExpediente</module>
     <module>BuscarPropietario</module>
+    <module>GenerarSancion</module>
   </modules>
 </project>
